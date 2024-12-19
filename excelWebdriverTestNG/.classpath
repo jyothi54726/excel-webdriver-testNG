@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-21">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="lib" path="D:/NARESHIT/5SELENIUM/JAR FILES/auto-service-annotations-1.1.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/NARESHIT/5SELENIUM/JAR FILES/byte-buddy-1.14.12.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/NARESHIT/5SELENIUM/JAR FILES/checker-qual-3.41.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/NARESHIT/5SELENIUM/JAR FILES/commons-exec-1.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/NARESHIT/5SELENIUM/JAR FILES/commons-io-2.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/NARESHIT/5SELENIUM/JAR FILES/error_prone_annotations-2.23.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/NARESHIT/5SELENIUM/JAR FILES/failsafe-3.3.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/NARESHIT/5SELENIUM/JAR FILES/failureaccess-1.0.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/NARESHIT/5SELENIUM/JAR FILES/guava-33.0.0-jre.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/NARESHIT/5SELENIUM/JAR FILES/j2objc-annotations-2.8.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/NARESHIT/5SELENIUM/JAR FILES/jar_files.zip"/>
+	<classpathentry exported="true" kind="lib" path="D:/NARESHIT/5SELENIUM/JAR FILES/jcommander.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/NARESHIT/5SELENIUM/JAR FILES/jsr305-3.0.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/NARESHIT/5SELENIUM/JAR FILES/jxl-2.6.9.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/NARESHIT/5SELENIUM/JAR FILES/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/NARESHIT/5SELENIUM/JAR FILES/log4j.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/NARESHIT/5SELENIUM/JAR FILES/opentelemetry-api-1.35.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/NARESHIT/5SELENIUM/JAR FILES/opentelemetry-api-events-1.35.0-alpha.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/NARESHIT/5SELENIUM/JAR FILES/opentelemetry-context-1.35.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/NARESHIT/5SELENIUM/JAR FILES/opentelemetry-exporter-logging-1.35.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/NARESHIT/5SELENIUM/JAR FILES/opentelemetry-extension-incubator-1.35.0-alpha.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/NARESHIT/5SELENIUM/JAR FILES/opentelemetry-sdk-1.35.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/NARESHIT/5SELENIUM/JAR FILES/opentelemetry-sdk-common-1.35.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/NARESHIT/5SELENIUM/JAR FILES/opentelemetry-sdk-extension-autoconfigure-1.35.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/NARESHIT/5SELENIUM/JAR FILES/opentelemetry-sdk-extension-autoconfigure-spi-1.35.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/NARESHIT/5SELENIUM/JAR FILES/opentelemetry-sdk-logs-1.35.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/NARESHIT/5SELENIUM/JAR FILES/opentelemetry-sdk-metrics-1.35.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/NARESHIT/5SELENIUM/JAR FILES/opentelemetry-sdk-trace-1.35.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/NARESHIT/5SELENIUM/JAR FILES/opentelemetry-semconv-1.23.1-alpha.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/NARESHIT/5SELENIUM/JAR FILES/selenium-api-4.18.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/NARESHIT/5SELENIUM/JAR FILES/selenium-api-4.18.1-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/NARESHIT/5SELENIUM/JAR FILES/selenium-chrome-driver-4.18.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/NARESHIT/5SELENIUM/JAR FILES/selenium-chrome-driver-4.18.1-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/NARESHIT/5SELENIUM/JAR FILES/selenium-chromium-driver-4.18.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/NARESHIT/5SELENIUM/JAR FILES/selenium-chromium-driver-4.18.1-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/NARESHIT/5SELENIUM/JAR FILES/selenium-devtools-v85-4.18.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/NARESHIT/5SELENIUM/JAR FILES/selenium-devtools-v85-4.18.1-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/NARESHIT/5SELENIUM/JAR FILES/selenium-devtools-v120-4.18.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/NARESHIT/5SELENIUM/JAR FILES/selenium-devtools-v120-4.18.1-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/NARESHIT/5SELENIUM/JAR FILES/selenium-devtools-v121-4.18.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/NARESHIT/5SELENIUM/JAR FILES/selenium-devtools-v121-4.18.1-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/NARESHIT/5SELENIUM/JAR FILES/selenium-devtools-v122-4.18.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/NARESHIT/5SELENIUM/JAR FILES/selenium-devtools-v122-4.18.1-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/NARESHIT/5SELENIUM/JAR FILES/selenium-edge-driver-4.18.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/NARESHIT/5SELENIUM/JAR FILES/selenium-edge-driver-4.18.1-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/NARESHIT/5SELENIUM/JAR FILES/selenium-firefox-driver-4.18.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/NARESHIT/5SELENIUM/JAR FILES/selenium-firefox-driver-4.18.1-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/NARESHIT/5SELENIUM/JAR FILES/selenium-http-4.18.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/NARESHIT/5SELENIUM/JAR FILES/selenium-http-4.18.1-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/NARESHIT/5SELENIUM/JAR FILES/selenium-ie-driver-4.18.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/NARESHIT/5SELENIUM/JAR FILES/selenium-ie-driver-4.18.1-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/NARESHIT/5SELENIUM/JAR FILES/selenium-java-4.18.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/NARESHIT/5SELENIUM/JAR FILES/selenium-java-4.18.1.zip"/>
+	<classpathentry exported="true" kind="lib" path="D:/NARESHIT/5SELENIUM/JAR FILES/selenium-java-4.18.1-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/NARESHIT/5SELENIUM/JAR FILES/selenium-json-4.18.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/NARESHIT/5SELENIUM/JAR FILES/selenium-json-4.18.1-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/NARESHIT/5SELENIUM/JAR FILES/selenium-manager-4.18.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/NARESHIT/5SELENIUM/JAR FILES/selenium-manager-4.18.1-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/NARESHIT/5SELENIUM/JAR FILES/selenium-os-4.18.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/NARESHIT/5SELENIUM/JAR FILES/selenium-os-4.18.1-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/NARESHIT/5SELENIUM/JAR FILES/selenium-remote-driver-4.18.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/NARESHIT/5SELENIUM/JAR FILES/selenium-remote-driver-4.18.1-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/NARESHIT/5SELENIUM/JAR FILES/selenium-safari-driver-4.18.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/NARESHIT/5SELENIUM/JAR FILES/selenium-safari-driver-4.18.1-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/NARESHIT/5SELENIUM/JAR FILES/selenium-server-4.18.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/NARESHIT/5SELENIUM/JAR FILES/selenium-support-4.18.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/NARESHIT/5SELENIUM/JAR FILES/selenium-support-4.18.1-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/NARESHIT/5SELENIUM/JAR FILES/testng-6.8.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
